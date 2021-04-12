@@ -85,3 +85,8 @@ transform: translateX(-50%) rotate(calc(var(--rotation) * 1deg));
     height: 35%;
     background-color: black;
 }
+.clock .number12{
+    color: red;
+    font-size: larger;
+    font-weight: 20px;
+}
